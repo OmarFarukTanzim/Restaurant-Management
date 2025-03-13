@@ -18,19 +18,6 @@ The **Restaurant Management System** is a simple Python-based application design
 - **Error Handling**:<br>
   - Handle invalid inputs (e.g., non-numeric values, unavailable items).<br>
   - Ensure smooth system operations with exception handling<br><br>
-  Sample Output:<br>
-  Restaurant System:<br>
-1. Manage Menu<br>
-2. Take Order<br>
-3. Calculate Bill<br>
-4. Exit<br>
-Enter your choice: 1<br>
 
-Menu Management:<br>
-1. Add Item<br>
-2. Remove Item<br>
-3. Update Item Price<br>
-4. View Menu<br>
-5. Exit Management<br>
 
 
