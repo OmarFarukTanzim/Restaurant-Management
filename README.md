@@ -1,5 +1,5 @@
-🍽️ Restaurant Management System/b
-📌 Project Overview/b
+🍽️ Restaurant Management System<b>
+📌 Project Overview<b>
 The Restaurant Management System is a simple Python-based application designed to assist restaurant managers in handling menu items, taking customer orders, and calculating bills efficiently. It incorporates exception handling to ensure robustness and a smooth user experience.
 
 🎯 Features
